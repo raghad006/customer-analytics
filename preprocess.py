@@ -11,6 +11,9 @@ df['Geography'] = df['Geography'].str.replace('French', 'France')
 
 df['EstimatedSalary'] = df['EstimatedSalary'].str.replace('€', '')
 df['Balance'] = df['Balance'].str.replace('€', '')
+df['EstimatedSalary'] = df['EstimatedSalary'].str.replace(',', '')
+df['Balance'] = df['Balance'].str.replace(',', '')
+
 
 df['Age'] = df['Age'].astype(int)
 df['Balance'] = df['Balance'].astype(float)
