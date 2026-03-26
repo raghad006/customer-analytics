@@ -1,0 +1,56 @@
+
+K-MEANS CLUSTERING RESULTS
+
+Clustering Configuration:
+  - Number of clusters: 4
+  - Features used: CreditScore, Age, Tenure, Balance, EstimatedSalary
+  - Total samples: 9997
+
+SAMPLES PER CLUSTER
+
+Cluster 0: 1300 customers (13.0%)
+Cluster 1: 2770 customers (27.7%)
+Cluster 2: 2596 customers (26.0%)
+Cluster 3: 3331 customers (33.3%)
+
+CLUSTER CHARACTERISTICS:
+
+Cluster 0:
+Size: 1300 customers
+Average CreditScore: 649.52
+Average Age: 59.03
+Average Tenure: 4.86
+Average Balance: 81873.13
+Average EstimatedSalary: 94771.34
+Churn Rate: 44.2%
+High-risk cluster (above average churn)
+
+Cluster 1:
+Size: 2770 customers
+Average CreditScore: 659.10
+Average Age: 35.78
+Average Tenure: 2.50
+Average Balance: 121057.74
+Average EstimatedSalary: 102935.85
+Churn Rate: 19.4%
+Low-risk cluster (below average churn)
+
+Cluster 2:
+Size: 2596 customers
+Average CreditScore: 644.46
+Average Age: 36.27
+Average Tenure: 7.65
+Average Balance: 122438.46
+Average EstimatedSalary: 100331.31
+Churn Rate: 20.1%
+Low-risk cluster (below average churn)
+
+Cluster 3:
+Size: 3331 customers
+Average CreditScore: 648.57
+Average Age: 35.76
+Average Tenure: 5.11
+Average Balance: 1495.68
+Average EstimatedSalary: 99617.78
+Churn Rate: 12.1%
+Low-risk cluster (below average churn)

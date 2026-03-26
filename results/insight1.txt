@@ -1,0 +1,12 @@
+INSIGHT 1: Customer Churn Analysis
+
+Overall Churn Rate: 20.38%
+
+Churn by Gender:
+ Male customers: 16.46%
+ Female customers: 25.08%
+
+Churn by Geography:
+ Germany: 32.46%
+ Spain: 16.68%
+ France: 16.16%

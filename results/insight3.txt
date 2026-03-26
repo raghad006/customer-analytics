@@ -1,0 +1,16 @@
+INSIGHT 3: Age and Balance Analysis
+Age Analysis:
+ Churned customers avg age: 44.84 years
+ Retained customers avg age: 37.41 years
+
+Balance Analysis:
+ Churned customers avg balance: €91108.54
+ Retained customers avg balance: €72739.86
+
+Churn Rate by Age Group:
+ Age Group 1: 8.68%
+ Age Group 2: 29.27%
+ Age Group 3: 40.11%
+ Age Group 4: 2.78%
+
+Key Finding: Older customers and those with higher balances show different churn patterns

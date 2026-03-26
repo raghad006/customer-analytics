@@ -1,0 +1,8 @@
+INSIGHT 2: Credit Score Impact on Churn
+
+Average Credit Score:
+ Churned customers: 645.35
+ Retained customers: 651.87
+
+Insight: Retained customers have 6.52 points higher credit scores on average
+Conclusion: Higher credit scores correlate with lower churn risk
