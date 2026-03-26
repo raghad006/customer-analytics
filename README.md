@@ -2,6 +2,9 @@
 
 ### Raghad Ramadan 231000818 
 ### Sara Reda 231001650
+
+### Docker hub link : 
+   https://hub.docker.com/repository/docker/wdwg/customer-analytics
 ## 1. Overview
 This repository contains a customer churn analytics pipeline with Docker support.
 The pipeline:
@@ -14,16 +17,19 @@ The pipeline:
 
 ## 2. docker commands
 
-### docker build -t customer-analytics . (Build)
+- `docker build -t customer-analytics . ` (Build)
 
-### docker run -it --name customer-container customer-analytics (Run)
+- `docker run -it --name customer-container customer-analytics` (Run)
 
-  ## push to docker hub: 
+  #### push to docker hub: 
 
-   ### docker login
-   ### docker tag customer-analytics raghad116/customer-analytics:latest
-   ### docker push raghad116/customer-analytics:latest
+   - `docker login`
+   - `docker tag customer-analytics username/customer-analytics:latest`
+   - `docker push username/customer-analytics:latest`
 
+   #### pull from docker hub : 
+   - `docker images`
+   - `docker pull username/customer-analytics:latest`
 ## 3. Execution flow
 1. From host, build image.
 2. Run container.
