@@ -5,6 +5,9 @@
 
 ### Docker hub link : 
    https://hub.docker.com/repository/docker/wdwg/customer-analytics
+
+### GitHub link : 
+   https://github.com/raghad006/customer-analytics.git 
 ## 1. Overview
 This repository contains a customer churn analytics pipeline with Docker support.
 The pipeline:
